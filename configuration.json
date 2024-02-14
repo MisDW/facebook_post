@@ -1,0 +1,22 @@
+[
+    {
+        "usuario_perfil":{
+            "nombre": "Misael AM",
+            "img": "img/usuarios/usuario1.jpg"
+        },
+        "historias":{
+            "nombre":["Alvarin Cv", "Chuyin", "Jesus Lalo", "Emmanuel Gag", "Ricardo Soto"],
+            "img": ["img/historias/historia1.jfif", "img/historias/historia2.jpg", "img/historias/historia3.jpg", "img/historias/historia4.jpg", "img/historias/historia5.jpg"]
+        },
+        "contactos":{
+            "nombre":["Alvarin Cv", "Chuyin", "Jesus Lalo", "Emmanuel Gag", "Ricardo Soto"],
+            "img": ["img/historias/historia1.jfif", "img/historias/historia2.jpg", "img/historias/historia3.jpg", "img/historias/historia4.jpg", "img/historias/historia5.jpg"]
+        },
+        "post":{
+            "nombre":["Alvarin Cv"],
+            "img": ["img/historias/historia1.jfif"],
+            "texto": "Espero puedan jugar Geometry Dash conmingo a las 7:00pm",
+            "tiempo": "10m"
+        }
+    }
+]
